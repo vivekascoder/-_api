@@ -4,6 +4,12 @@ os.system('clear')
 #  Problem with mic??
 # mine?? yes, give me a monment take ur time
 
+def a():
+    b = ""
+    a = {
+            "name": "Vivek"
+            }
+
 def url(song_name):
     list_ = song_name.split()
     list_.append("lyrics")
